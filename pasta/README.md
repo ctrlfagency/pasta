@@ -1,4 +1,4 @@
-# JQVMAP - Modded : High Quality Responsive interactive Map
+# TLMAPS
 ![image](https://raw.githubusercontent.com/ctrlfagency/pasta/master/pasta/images/map.png)
 
 TLMAP a mapping system with legends.. 
