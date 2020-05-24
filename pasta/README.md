@@ -19,7 +19,7 @@ var example_data = { data ....}
 Here : [demo]
 
 ## Licenses
-[GNU-GPL] License
+[GNU-GPL] License Free
 Copyleft - Thibaut LOMBARD
 
 
