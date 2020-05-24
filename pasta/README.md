@@ -25,5 +25,5 @@ Copyleft - Thibaut LOMBARD
 
 [comment]: #
    [ISO-Country-codes]: <https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2>
-   [demo]: <https://ctrlfagency.com/pasta/>
+   [demo]: <https://ctrlfagency.github.io/pasta/pasta/demo.html>
    [GNU-GPL]: <https://www.gnu.org/licenses/licenses.fr.html>
